@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Alfya Hussain
-- Studying at CE Karunagappally
+- Computer Science and Engineering Graduate from College of Engineering Karunagappally
 
 <!---
 alfyahuzayn/alfyahuzayn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
